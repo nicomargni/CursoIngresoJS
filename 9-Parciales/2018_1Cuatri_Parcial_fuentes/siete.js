@@ -48,4 +48,5 @@ function mostrar()
     alert("La nota mas baja pertenece a un " +sexdelmin +" y es de "+min);
     promedio=promedio/contador;
     alert("El promedio de notas es igual a "+promedio);
+    alert("La cantidad de varones cuya nota fue mayor o igual a 6 es de "+varaprob);
 }
